@@ -5,8 +5,8 @@ import { Container, Button, H3, Text, Header, Title, Body, Left, Right } from "n
 
 import styles from "./styles";
 
-const launchscreenBg = require("../../../img/launchscreen-bg.png");
-const launchscreenLogo = require("../../../img/logo-kitchen-sink.png");
+const launchscreenBg = require("../../../img/backgroundMytools.png");
+const launchscreenLogo = require("../../../img/logo-mytools.png");
 
 class Home extends Component {
 	// eslint-disable-line

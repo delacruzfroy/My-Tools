@@ -18,47 +18,43 @@ import {
 
 import styles from "./styles";
 
-const pratik = require("../../../img/contacts/pratik.png");
-const sanket = require("../../../img/contacts/sanket.png");
-const megha = require("../../../img/contacts/megha.png");
-const atul = require("../../../img/contacts/atul.png");
-const saurabh = require("../../../img/contacts/saurabh.png");
-const varun = require("../../../img/contacts/varun.png");
+const Roy = require("../../../img/contacts/troiz.jpg");
+
 
 const datas = [
   {
-    img: pratik,
-    text: "Kumar Pratik",
+    img: Roy,
+    text: "Froilan dela cruz",
     note: "Its time to build a difference . .",
     time: "3:43 pm"
   },
   {
-    img: sanket,
-    text: "Kumar Sanket",
+    img: Roy,
+    text: "Froilan dela cruz",
     note: "One needs courage to be happy and smiling all time . . ",
     time: "1:12 pm"
   },
   {
-    img: megha,
-    text: "Megha",
+    img: Roy,
+    text: "Froilan dela cruz",
     note: "Live a life style that matchs your vision",
     time: "10:03 am"
   },
   {
-    img: atul,
-    text: "Atul Ranjan",
+    img: Roy,
+    text: "Froilan dela cruz",
     note: "Failure is temporary, giving up makes it permanent",
     time: "5:47 am"
   },
   {
-    img: saurabh,
-    text: "Saurabh Sahu",
+    img: Roy,
+    text: "Froilan dela cruz",
     note: "The biggest risk is a missed opportunity !!",
     time: "11:11 pm"
   },
   {
-    img: varun,
-    text: "Varun Sahu",
+    img: Roy,
+    text: "Froilan dela cruz",
     note: "Wish I had a Time machine . .",
     time: "8:54 pm"
   }

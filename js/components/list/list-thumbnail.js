@@ -18,42 +18,38 @@ import {
 
 import styles from "./styles";
 
-const sankhadeep = require("../../../img/contacts/sankhadeep.png");
-const supriya = require("../../../img/contacts/supriya.png");
-const himanshu = require("../../../img/contacts/himanshu.png");
-const shweta = require("../../../img/contacts/shweta.png");
-const shruti = require("../../../img/contacts/shruti.png");
-const shivraj = require("../../../img/contacts/shivraj.jpg");
+const Roy = require("../../../img/contacts/troiz.jpg");
+
 
 const datas = [
   {
-    img: sankhadeep,
-    text: "Sankhadeep",
+    img: Roy,
+    text: "Froilan Dela Cruz",
     note: "Its time to build a difference . ."
   },
   {
-    img: supriya,
-    text: "Supriya",
+    img: Roy,
+    text: "Froilan Dela Cruz",
     note: "One needs courage to be happy and smiling all time . . "
   },
   {
-    img: himanshu,
-    text: "Himanshu",
+    img: Roy,
+    text: "Froilan Dela Cruz",
     note: "Live a life style that matchs your vision"
   },
   {
-    img: shweta,
-    text: "Shweta",
+    img: Roy,
+    text: "Froilan Dela Cruz",
     note: "Failure is temporary, giving up makes it permanent"
   },
   {
-    img: shruti,
-    text: "Shruti",
+    img: Roy,
+    text: "Froilan Dela Cruz",
     note: "The biggest risk is a missed opportunity !!"
   },
   {
-    img: shivraj,
-    text: "Shivraj",
+    img: Roy,
+    text: "Froilan Dela Cruz",
     note: "Time changes everything . ."
   }
 ];
