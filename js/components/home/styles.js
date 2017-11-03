@@ -23,7 +23,12 @@ export default {
     height: 100
   },
   text: {
-    color: "#D8D8D8",
+    color: "#f50c4d",
+    bottom: 6,
+    marginTop: 5
+  },
+  textTools: {
+    color: "#1936e8",
     bottom: 6,
     marginTop: 5
   }

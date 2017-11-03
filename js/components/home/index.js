@@ -26,9 +26,11 @@ class Home extends Component {
 							backgroundColor: "transparent",
 						}}
 					>
-						<H3 style={styles.text}>App to showcase</H3>
+						<H3 style={styles.text}>Nature is unlimited Power</H3>
+						<H3 style={styles.text}>Create a tools to explored them!</H3>
 						<View style={{ marginTop: 8 }} />
 						<H3 style={styles.text}>NativeBase components</H3>
+						<H3 style={styles.textTools}>My Tools</H3>
 						<View style={{ marginTop: 8 }} />
 					</View>
 					<View style={{ marginBottom: 80 }}>
