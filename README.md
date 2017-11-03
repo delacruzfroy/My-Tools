@@ -4,7 +4,7 @@ Below you'll find information about performing common tasks. The most recent ver
 
 ## Table of Contents
 
-* [Some Question] (#if-you-have-any-Question,-contact-us) 
+* [Some Question] (#if-you-have-any-Question-contact-us) 
 * [Updating to New Releases](#updating-to-new-releases)
 * [Available Scripts](#available-scripts)
   * [npm start](#npm-start)
@@ -221,6 +221,6 @@ If you're not able to scan the QR code, make sure your phone's camera is focusin
 If this causes problems for you, you may want to try changing your terminal's color theme to have more contrast, or running Create React Native App from a different terminal. You can also manually enter the URL printed by the packager script in the Expo app's search bar to load it manually.
 
 
-### if you have any Question, contact us
+### if you have any Question contact us
 
 @:  cruzfriolandela@gmail.com and ENJOY your CODE
