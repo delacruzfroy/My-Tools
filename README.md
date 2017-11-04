@@ -1,5 +1,4 @@
-## Table of Contents With the help of my Great Son and Daughter (James, Blessie)
-
+## With the help of my Great Son and Daughter (James, Blessie)
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
